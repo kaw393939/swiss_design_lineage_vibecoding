@@ -73,6 +73,29 @@ Classic Swiss Design used fixed grids (5-column, 7-column systems) that broke on
 
 ---
 
+## ⚡ Quick Implementation Checklist
+
+**Before you start:**
+- [ ] Reviewed Stripe.com, Airbnb.design, Linear.app
+- [ ] Found examples in [references](#-visual-references)
+- [ ] Understand: responsive grids, fluid type, minimal color
+
+**Must-have:**
+- [ ] 12-column responsive grid (desktop), 4-col (mobile)
+- [ ] Modern sans-serif (Inter, Helvetica, system fonts)
+- [ ] Fluid typography (clamp-based, responsive)
+- [ ] 1-2 colors max (black/white + 1 accent)
+- [ ] Lots of whitespace (don't crowd)
+
+**Red flags (stop if you see):**
+- ❌ Fixed pixel layouts (not responsive)
+- ❌ Many bright colors (keep it minimal)
+- ❌ Decorative fonts or scripts
+- ❌ Tight spacing (needs breathing room)
+- ❌ Breaking the grid system
+
+---
+
 ## 🎨 Key Visual Characteristics
 
 ### Typography

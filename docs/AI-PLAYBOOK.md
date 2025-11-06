@@ -124,37 +124,63 @@ Stop AI immediately if:
 
 ---
 
-## 💡 Pro Tips
+## � Bad vs Good Collaboration
+
+**BAD:**
+```
+Student: "Make the hero look more Flat Design"
+AI: [generic output]
+Student: "Looks good!" ❌
+```
+
+**GOOD:**
+```
+Student: "Screenshot shows hero. Reference shows:
+- Heading: 4rem, bold 800
+- Background: #3498DB, white text
+- Button: 2rem padding, no border-radius
+Match these exactly."
+
+AI: [specific output]
+
+Student: [screenshots, compares] 
+"Button needs 2rem padding not 1rem. 
+Logo 3rem not 4rem." ✅
+```
+
+---
+
+## �💡 Pro Tips
 
 **1. Be Hyper-Specific**
 - Not: "bigger font"
 - Yes: "4rem, font-weight 800"
 
 **2. Reference Real Examples**
-- "Like the Stripe homepage hero"
-- "Match the spacing in this [screenshot]"
+- "Like Stripe hero"
+- "Match this [screenshot]"
 
 **3. Compare Constantly**
-- Your work vs reference images
-- Before vs after screenshots
+- Your work vs references
+- Before vs after
 
 **4. Iterate Ruthlessly**
-- First draft is never good enough
-- 2-3 rounds per section minimum
+- First draft = never good enough
+- 2-3 rounds minimum
 
 **5. Use Metrics**
-- Hex codes, not "blue"
-- Pixels/rems, not "bigger"
-- Lighthouse scores, not "fast enough"
+- #3498DB not "blue"
+- 4rem not "bigger"
+- 90+ not "fast enough"
 
 **6. Split Complex Tasks**
-- Not: "Build the homepage"
-- Yes: "Build hero section first"
+- Not: "Build homepage"
+- Yes: "Build hero first"
 
-**7. Document as You Go**
-- Save all screenshots
-- Track what worked/failed
-- Note iteration counts
+**7. Document Everything**
+- Save screenshots
+- Track iterations
+- Note failures
 
 ---
 

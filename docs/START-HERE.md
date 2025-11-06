@@ -7,6 +7,18 @@
 
 ---
 
+## 🚀 Absolute Quickstart (2 min)
+
+**Too many words? Do this:**
+
+1. **Pick:** [Flat Design](../style-guides/beginner/FLAT-DESIGN-GUIDE.md) or [Neo-Swiss](../style-guides/beginner/NEO-SWISS-GUIDE.md) (1 min)
+2. **Open:** [Daily checklist](../templates/daily-checklist.md) (30 sec)
+3. **Start:** Day 1 → Find 3 reference images (30 sec)
+
+**Stop reading. Start building. Come back when stuck.**
+
+---
+
 ## ⚡ Quick Decision Tree
 
 **Answer one question:** Have you done web design projects before?
@@ -133,6 +145,36 @@ AI writes a "collaboration story" page reflecting on how you worked together. Th
 
 **Understanding grading?**  
 → [GRADING.md](GRADING.md) — Rubric + submission requirements
+
+---
+
+## ⚠️ Week 1 Mistakes (Avoid These)
+
+❌ **Reading everything before starting** → Pick style, start building  
+❌ **Accepting AI's first output** → Iterate 2-3x minimum  
+❌ **Skipping screenshots** → Screenshot after every change  
+❌ **Vague prompts** ("make it better") → Use metrics (4rem, #3498DB, 3rem padding)
+
+---
+
+## ✅ You're On Track If
+
+**After Sprint 1:**
+- Layout matches reference structure
+- Typography isn't default fonts
+- Colors from style palette (not random)
+- Iterated 2-3 times (not first output)
+
+**After Sprint 2:**
+- Navigation works, matches style
+- Mobile doesn't look broken
+- Saved 30+ screenshots
+
+**After Sprint 3:**
+- All pages done (not just homepage)
+- Lighthouse 90+ (not 70s)
+- Works on phone (actually tested)
+- Looks professional
 
 ---
 

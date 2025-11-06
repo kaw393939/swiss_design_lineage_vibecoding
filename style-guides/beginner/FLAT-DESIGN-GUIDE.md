@@ -81,6 +81,29 @@ iOS 7 launch (2013) signaled shift from skeuomorphic to flat across entire tech 
 
 ---
 
+## ⚡ Quick Implementation Checklist
+
+**Before you start:**
+- [ ] Reviewed 10+ iOS 7 / Windows Phone screenshots
+- [ ] Found examples in [references](#-visual-references)
+- [ ] Understand: no shadows, bright colors, simple shapes
+
+**Must-have:**
+- [ ] 4-6 colors from Flat palette (bright, saturated)
+- [ ] Sans-serif fonts (Helvetica, Roboto, Open Sans)
+- [ ] No shadows, no gradients, no textures
+- [ ] Simple shapes: rectangles, circles, clean icons
+- [ ] Bold, vibrant buttons with solid colors
+
+**Red flags (stop if you see):**
+- ❌ Using serif fonts or script fonts
+- ❌ Subtle grays (Flat is BRIGHT)
+- ❌ Gradients or shadows (not authentic)
+- ❌ Complex textures or patterns
+- ❌ 3D effects or depth
+
+---
+
 ## 🎨 Key Visual Characteristics
 
 ### Color Palette

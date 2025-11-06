@@ -5,6 +5,16 @@ Use this prompt with AI to generate your collaboration story page.
 
 ---
 
+## 📝 Example: Good vs Bad Story
+
+**BAD (Generic):**
+> "The AI helped me build a website. It was useful. We worked together and made a good site."
+
+**GOOD (Specific):**
+> "Sprint 2, iteration 3: I showed AI a screenshot of my nav next to iOS 7 reference. Spacing was wrong (1rem vs 2rem), blue wasn't vibrant enough (#5DADE2 vs #3498DB). After specifying exact measurements, we nailed it. Taught me AI needs visual proof + metrics, not feelings."
+
+---
+
 ## Prompt for AI
 
 ```
